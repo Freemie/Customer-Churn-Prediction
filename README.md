@@ -2,6 +2,10 @@
 
 # Customer Churn Prediction App
 
+
+<img width="651" height="559" alt="Screenshot 2025-11-30 at 3 06 07 AM" src="https://github.com/user-attachments/assets/f1bb2487-496e-41f7-8f91-5136cd866608" />
+
+
 A complete machine learning application that predicts customer churn with 95%+ accuracy using ensemble methods and feature engineering. This full-stack application includes both a web interface and REST API for real-time predictions.
 
 ## 🚀 Live Demo
